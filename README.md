@@ -7,4 +7,5 @@ Validations:
 All CRUD operations are done with validations
 
 Quote of Day and Temperature are obtain by Web Scrapping
+
 Graph is Plotted for Marks
