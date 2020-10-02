@@ -1,4 +1,4 @@
-# Student-Management-System_Python python3
+# Student-Management-System_Python3
 Student Management System in Python done with basic validation
 Validations:
 
